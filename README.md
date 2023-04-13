@@ -6,4 +6,4 @@ You can find here an part of all my projects.
 
 Enjoy, Have a good day.
 
-Just Cool Dev
+JustCool Dev
